@@ -1,0 +1,120 @@
+body {
+  padding-top: 50px;
+  background:url(data/img_homepage.jpg);
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+#heading1
+{
+	color:white;
+	font-family:Century Gothic;
+}
+
+.lead{
+	color:white;
+	font-family:Century Gothic;
+	 margin: 40px;
+    background-color: #000000;
+    font-weight:900;
+    opacity: 0.6;
+    
+}
+
+.lead2{
+	color:white;
+	font-family:Century Gothic;
+	   
+}
+
+#heading2  {
+	position:100px;
+	padding:400px;
+	}
+
+#msg_succ
+{
+	color:white;
+	font-family:Century Gothic;
+	font-size: 500%;
+}
+
+#heading_inventory
+{
+	color:white;
+	font-family:Century Gothic;
+	font-size: 300%;
+}
+
+#heading_inventory1
+{
+	color:white;
+	font-family:Century Gothic;
+	font-size: 150%;
+}
+
+#container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  background:black;
+}
+
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 20px;
+  background:white;
+}
+
+#footer1{
+	  padding-left:47%;
+}
+
+
+#footer2{
+	  color:white;
+	  padding-left:43%;
+}
+
+#newfont {
+	color: black;
+	font-family:Century Gothic;
+	font-size:130%;
+}
+
+#button_cancel {
+	display: inline-block;
+  /*padding: 6px 12px;*/
+  margin-bottom: 0;
+  /*font-size: 14px;*/
+  font-weight: normal;
+  /*line-height: 1.42857143;*/
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  /*border-radius: 4px;*/
+
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+
+    color: #fff;
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+
+
+}
